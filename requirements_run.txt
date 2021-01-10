@@ -1,10 +1,7 @@
 numpy
 Cython
 h5py
-torch
-torchvision
 pyyaml
-pprint
 enum34
 future
 scipy==1.2.1
